@@ -1,0 +1,12 @@
+<ecmaFunctionInvoker>
+
+	<scriptFileName>getAllFeatureLocations.js</scriptFileName>
+	
+	<function>
+		<name>getAllFeatureLocations</name>
+		<tableFromObjectsResultType/>
+	</function>
+	
+</ecmaFunctionInvoker>
+
+

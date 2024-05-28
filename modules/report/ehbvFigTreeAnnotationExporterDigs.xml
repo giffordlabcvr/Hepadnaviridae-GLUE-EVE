@@ -1,0 +1,55 @@
+<figTreeAnnotationExporter>
+
+	<figTreeAnnotation>
+		<annotationName>sequenceID</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.sequenceID')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>name</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.name')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>genus</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.genus')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>scaffold</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.locus_data.scaffold')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>identity</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.locus_data.identity')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>bitscore</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.locus_data.bitscore')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>host_species</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.locus_data.host_species')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>host_genus</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.locus_data.host_genus')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>host_family</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.locus_data.host_family')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>host_order</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.locus_data.host_order')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	
+</figTreeAnnotationExporter>
+

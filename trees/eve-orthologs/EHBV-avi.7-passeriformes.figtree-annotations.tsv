@@ -1,0 +1,7 @@
+taxon	sequenceID	name	genus	scaffold	identity	bitscore	host_species	host_genus	host_family	host_order
+alignment/AL_EHBV-avi.7-passeriformes/member/fasta-digs-ehbv/ehbv-avi.7-Geospiza_fortis	ehbv-avi.7-Geospiza_fortis	ehbv-avi.7-Geospiza_fortis	Avihepadnavirus	JH739977	88.136	110	Geospiza_fortis	Geospiza	Thraupidae	Passeriformes
+alignment/AL_EHBV-avi.7-passeriformes/member/fasta-digs-ehbv/ehbv-avi.7-Hemignathus_virens	ehbv-avi.7-Hemignathus_virens	ehbv-avi.7-Hemignathus_virens	Avihepadnavirus	LTAT01000021.1	88.136	113	Hemignathus_virens	Hemignathus	Fringillidae	Passeriformes
+alignment/AL_EHBV-avi.7-passeriformes/member/fasta-digs-ehbv/ehbv-avi.7-Molothrus_ater	ehbv-avi.7-Molothrus_ater	ehbv-avi.7-Molothrus_ater	Avihepadnavirus	CM022858.1	79.245	89	Molothrus_ater	Molothrus	Icteridae	Passeriformes
+alignment/AL_EHBV-avi.7-passeriformes/member/fasta-digs-ehbv/ehbv-avi.7-Serinus_canaria	ehbv-avi.7-Serinus_canaria	ehbv-avi.7-Serinus_canaria	Avihepadnavirus	gi|668343331|ref|NW_007931150.1|	82.456	101	Serinus_canaria	Serinus	Fringillidae	Passeriformes
+alignment/AL_EHBV-avi.7-passeriformes/member/fasta-digs-ehbv/ehbv-avi.7-Setophaga_coronata	ehbv-avi.7-Setophaga_coronata	ehbv-avi.7-Setophaga_coronata	Avihepadnavirus	MDLI01000263.1	88.136	111	Setophaga_coronata	Setophaga	Parulidae	Passeriformes
+alignment/AL_EHBV-avi.7-passeriformes/member/fasta-digs-ehbv/ehbv-avi.7-Taeniopygia_guttata	ehbv-avi.7-Taeniopygia_guttata	ehbv-avi.7-Taeniopygia_guttata	Avihepadnavirus	chrUn_EQ836117	86.364	117	Taeniopygia_guttata	Taeniopygia	Estrildidae	Passeriformes

@@ -1,0 +1,6 @@
+taxon	sequenceID	name	core_shift	variable_region_type	genus	nearest_upstream_orf	nearest_downstream_orf
+alignment/AL_Metahepadnavirus/member/fasta-refseqs/AMDV	AMDV	AMDV	N/A	meta-type-3	Metahepadnavirus	-	-
+alignment/AL_Metahepadnavirus/member/fasta-refseqs-ehbv/ehbv-meta.3-paroedura	ehbv-meta.3-paroedura	ehbv-meta.3-paroedura	N/A	ND	Metahepadnavirus	NK	NK
+alignment/AL_Metahepadnavirus/member/fasta-refseqs/IMDV	IMDV	IMDV	N/A	meta-type-4	Metahepadnavirus	-	-
+alignment/AL_Metahepadnavirus/member/ncbi-refseqs/NC_030445	NC_030445	bgHBV	N/A	meta-type-1	Metahepadnavirus	-	-
+alignment/AL_Metahepadnavirus/member/fasta-refseqs/TMDV	TMDV	TMDV	N/A	meta-type-4	Metahepadnavirus	-	-

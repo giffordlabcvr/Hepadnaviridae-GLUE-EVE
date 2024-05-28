@@ -1,0 +1,27 @@
+
+  # Export annotations
+  module ehbvFigTreeAnnotationExporterReferences 
+
+    export figtree-annotation AL_GENUS_Herpetohepadnavirus -w "fLocNotes.featureLoc.feature.name = 'PreCore-Core'  \
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/eve-genus/Herpeto-root-core.eve.figtree-annotations.tsv
+    export figtree-annotation AL_GENUS_Herpetohepadnavirus -w "fLocNotes.featureLoc.feature.name = 'Polymerase'  \
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/eve-genus/Herpeto-root-pol.eve.figtree-annotations.tsv
+    export figtree-annotation AL_GENUS_Herpetohepadnavirus -w "fLocNotes.featureLoc.feature.name = 'large-S'  \
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/eve-genus/Herpeto-root-surface.eve.figtree-annotations.tsv
+
+    export figtree-annotation AL_GENUS_Avihepadnavirus -w "fLocNotes.featureLoc.feature.name = 'PreCore-Core'  \
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/eve-genus/Avi-root-core.eve.figtree-annotations.tsv
+    export figtree-annotation AL_GENUS_Avihepadnavirus -w "fLocNotes.featureLoc.feature.name = 'Polymerase'  \
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/eve-genus/Avi-root-pol.eve.figtree-annotations.tsv
+    export figtree-annotation AL_GENUS_Avihepadnavirus -w "fLocNotes.featureLoc.feature.name = 'large-S'  \
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/eve-genus/Avi-root-surface.eve.figtree-annotations.tsv
+
+    export figtree-annotation AL_GENUS_Metahepadnavirus -w "fLocNotes.featureLoc.feature.name = 'PreCore-Core'  \
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/eve-genus/Meta-root-core.eve.figtree-annotations.tsv
+    export figtree-annotation AL_GENUS_Metahepadnavirus -w "fLocNotes.featureLoc.feature.name = 'Polymerase'  \
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/eve-genus/Meta-root-pol.eve.figtree-annotations.tsv
+    export figtree-annotation AL_GENUS_Metahepadnavirus -w "fLocNotes.featureLoc.feature.name = 'large-S'  \
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/eve-genus/Meta-root-surface.eve.figtree-annotations.tsv
+
+  exit
+

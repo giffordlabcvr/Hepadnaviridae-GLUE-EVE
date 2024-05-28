@@ -1,0 +1,15 @@
+  ### Set up constrained alignment tree for EHBVs from DIGS
+  
+  #~# Internal nodes (Hepadnaviridae genera) 
+
+  alignment AL_Hepadnaviridae
+  
+    add member -w "source.name = 'fasta-digs-ehbv'"
+
+    demote member AL_GENUS_Avihepadnavirus    --whereClause "sequence.source.name = 'fasta-digs-ehbv' and sequence.genus = 'Avihepadnavirus'"
+    demote member AL_GENUS_Herpetohepadnavirus    --whereClause "sequence.source.name = 'fasta-digs-ehbv' and sequence.genus = 'Herpetohepadnavirus'"  
+    demote member AL_GENUS_Metahepadnavirus    --whereClause "sequence.source.name = 'fasta-digs-ehbv' and sequence.genus = 'Metahepadnavirus'"
+    
+    exit
+
+

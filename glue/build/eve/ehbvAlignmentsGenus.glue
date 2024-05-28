@@ -1,0 +1,26 @@
+#~# Import pre-built alignments of EVE sequences
+
+module unconstrainedAlignmentImporter
+
+  #~# Internal node aligns
+  import AL_UNC_eHBV-Herpeto               -f alignments/internal/herpetohepadna-eves.aln.fna
+  import AL_UNC_eHBV-Meta                  -f alignments/internal/metahepadna-eves.aln.fna
+  import AL_UNC_eHBV-Avi                   -f alignments/internal/avihepadna-eves.aln.fna
+  
+  exit
+
+
+#~# Derive Genus-level constrained alignments from unconstrained aligned constructed outside GLUE
+
+alignment AL_GENUS_Avihepadnavirus
+  derive segments AL_UNC_eHBV-Avi -a --mergeStrategy OVERWRITE
+  exit
+
+alignment AL_GENUS_Herpetohepadnavirus
+  derive segments AL_UNC_eHBV-Herpeto -a --mergeStrategy OVERWRITE
+  exit
+
+alignment AL_GENUS_Metahepadnavirus
+  derive segments AL_UNC_eHBV-Meta -a --mergeStrategy OVERWRITE
+  exit
+

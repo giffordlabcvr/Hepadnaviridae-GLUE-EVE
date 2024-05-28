@@ -1,0 +1,45 @@
+project hepadnaviridae
+  run file glue/build/eve/ehbvDeletePreviousExtensionBuild.glue
+  exit
+
+schema-project hepadnaviridae
+  run file glue/build/eve/ehbvSchemaExtensions.glue
+  exit
+  
+project hepadnaviridae
+
+  # create modules
+  run file glue/build/eve/ehbvModules.glue
+  
+  # Import endogenous hepadnaviral element (EHBV) sequences
+  import source sources/fasta-refseqs-ehbv/
+  import source sources/fasta-digs-ehbv/
+
+  # Import data for EVE sequences
+  run file glue/build/eve/ehbvImportData.glue
+  
+  # Create EHBV reference sequences
+  run file glue/build/eve/ehbvReferences.glue
+
+  # Add EVEs to constrained alignment tree 
+  run file glue/build/eve/ehbvAlignmentTree.glue
+
+  # Import genus-level EVE alignments
+  run file glue/build/eve/ehbvAlignmentsGenus.glue
+
+  # Record feature presence
+  run file glue/build/eve/ehbvRecordFeaturePresence.glue
+
+  # Set up constrained alignment tree for orthologs
+  run file glue/build/eve/ehbvAlignmentTreeDigs.glue
+
+  # Create the ortholog (tip) alignments in the constrained alignment tree
+  run script glue/build/eve/ehbvDemoteOrthologsToTipAlignments.js
+
+  # Import tip-level EVE alignments
+  run file glue/build/eve/ehbvImportAlignmentsTips.glue
+
+  # Validate
+  validate
+
+  exit

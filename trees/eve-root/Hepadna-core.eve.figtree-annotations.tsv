@@ -1,0 +1,38 @@
+taxon	sequenceID	name	core_shift	variable_region_type	genus	nearest_upstream_orf	nearest_downstream_orf
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/AJ251934	AJ251934	STHBV	type-1	avi-1-modern	Avihepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/AJ441111	AJ441111	CCHBV	type-1	avi-1-modern	Avihepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs/AMDV	AMDV	AMDV	N/A	meta-type-3	Metahepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.14-gavia	ehbv-avi.14-gavia	ehbv-avi.14-gavia	N/A	avi-2-rails	Avihepadnavirus	TAS1R3	DVL1
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.15-gavia	ehbv-avi.15-gavia	ehbv-avi.15-gavia	N/A	avi-2-rails	Avihepadnavirus	TMEM182 (intronic)	TMEM182 (intronic)
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.26-psittaciformes	ehbv-avi.26-psittaciformes	ehbv-avi.26-psittaciformes	N/A	ND	Avihepadnavirus	NELL1 (intronic)	NELL1 (intronic)
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.28-alauda	ehbv-avi.28-alauda	ehbv-avi.28-alauda	N/A	avi-1-modern	Avihepadnavirus	EPHA6	NSUN3
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.31-passeriformes	ehbv-avi.31-passeriformes	ehbv-avi.31-passeriformes	N/A	avi-4	Avihepadnavirus	NETO1	FBXO15
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.32-tinamiformes	ehbv-avi.32-tinamiformes	ehbv-avi.32-tinamiformes	N/A	ND	Avihepadnavirus	OLFM4	NF
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.34-leptosomus	ehbv-avi.34-leptosomus	ehbv-avi.34-leptosomus	N/A	ND	Avihepadnavirus	LRRC7	LRRC7
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.35-calypte	ehbv-avi.35-calypte	ehbv-avi.35-calypte	N/A	ND	Avihepadnavirus	FBXO15	CYB5A
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.49-psittaciformes	ehbv-avi.49-psittaciformes	ehbv-avi.49-psittaciformes	N/A	ND	Avihepadnavirus	GRID2 (intronic)	GRID2 (intronic)
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-avi.52-melopsittacus	ehbv-avi.52-melopsittacus	ehbv-avi.52-melopsittacus	N/A	ND	Avihepadnavirus	LUZP2	ANO3
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs-ehbv/ehbv-herpeto.3-crocodilia	ehbv-herpeto.3-crocodilia	ehbv-herpeto.3-crocodilia	N/A	herpeto-type-4-croc	Herpetohepadnavirus	NUP210	IQSEC1
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs/IMDV	IMDV	IMDV	N/A	meta-type-4	Metahepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/MH307930	MH307930	DCHBV	N/A	ortho-type 4	Orthohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_001344	NC_001344	DHBV	type-2	avi-1-modern	Avihepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_001484	NC_001484	GSHV	N/A	ortho-type-2	Orthohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_001486	NC_001486	HHBV	type-1	avi-1-modern	Avihepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_003977	NC_003977	HBV	N/A	ortho-type-1	Orthohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_004107	NC_004107	WhBv	N/A	ortho-type-2	Orthohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_005888	NC_005888	RGHBV	type-1	avi-1-modern	Avihepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_005890	NC_005890	SHBV	type-2	avi-1-modern	Avihepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_005950	NC_005950	SGHBV	type-2	avi-1-modern	Avihepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_016561	NC_016561	PaHBV	type-1	avi-1-modern	Avihepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_020881	NC_020881	LfbHBV	N/A	ortho-type-6	Orthohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_024443	NC_024443	RlbHBV	N/A	ortho-type-6	Orthohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_024444	NC_024444	HsbHBV	N/A	ortho-type-6	Orthohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_024445	NC_024445	TBHBV	N/A	ortho-type-2a	Orthohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_028129	NC_028129	WMHBV	N/A	ortho-type-1	Orthohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_030445	NC_030445	bgHBV	N/A	meta-type-1	Metahepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_030446	NC_030446	tfHBV	N/A	herpeto-type-1	Herpetohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/NC_035210	NC_035210	THBV	type-1	avi-1-modern	Avihepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs/SkHBV	SkHBV	SkHBV	N/A	herpeto-type-2	Herpetohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs/SLHBV-1	SLHBV-1	SLHBV-1	N/A	herpeto-type-1	Herpetohepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/fasta-refseqs/TMDV	TMDV	TMDV	N/A	meta-type-4	Metahepadnavirus	-	-
+alignment/AL_TREE_Hepadnaviridae_EVE/member/ncbi-refseqs/U29144	U29144	ASHV	N/A	ortho-type-2	Orthohepadnavirus	-	-

@@ -1,0 +1,9 @@
+  
+  # Load reference/consensus data
+  run script glue/build/eve/loadRefConData1.js
+  run script glue/build/eve/loadRefConData2.js
+ 
+  # Load DIGS sequences data
+  run script glue/build/eve/ehbvLoadLocusData1.js
+  run script glue/build/eve/ehbvLoadLocusData2.js
+

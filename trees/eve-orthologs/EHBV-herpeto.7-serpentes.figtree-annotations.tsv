@@ -1,0 +1,5 @@
+taxon	sequenceID	name	genus	scaffold	identity	bitscore	host_species	host_genus	host_family	host_order
+alignment/AL_EHBV-herpeto.7-serpentes/member/fasta-digs-ehbv/ehbv-herpeto.7-Emydocephalus_ijimae	ehbv-herpeto.7-Emydocephalus_ijimae	ehbv-herpeto.7-Emydocephalus_ijimae	Herpetohepadnavirus	BHEV01075150.1	96.053	290	Emydocephalus_ijimae	Emydocephalus	Hydrophiidae	NULL
+alignment/AL_EHBV-herpeto.7-serpentes/member/fasta-digs-ehbv/ehbv-herpeto.7-Hydrophis_cyanocinctus	ehbv-herpeto.7-Hydrophis_cyanocinctus	ehbv-herpeto.7-Hydrophis_cyanocinctus	Herpetohepadnavirus	RSAE01398428.1	98.684	306	Hydrophis_cyanocinctus	Hydrophis	Hydrophiidae	NULL
+alignment/AL_EHBV-herpeto.7-serpentes/member/fasta-digs-ehbv/ehbv-herpeto.7-Hydrophis_melanocephalus	ehbv-herpeto.7-Hydrophis_melanocephalus	ehbv-herpeto.7-Hydrophis_melanocephalus	Herpetohepadnavirus	BHFS01001568.1	99.419	349	Hydrophis_melanocephalus	Hydrophis	Hydrophiidae	NULL
+alignment/AL_EHBV-herpeto.7-serpentes/member/fasta-digs-ehbv/ehbv-herpeto.7-Laticauda_colubrina	ehbv-herpeto.7-Laticauda_colubrina	ehbv-herpeto.7-Laticauda_colubrina	Herpetohepadnavirus	BHFR01001345.1	59.259	183	Laticauda_colubrina	Laticauda	Elapidae	NULL

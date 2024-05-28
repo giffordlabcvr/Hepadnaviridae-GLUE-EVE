@@ -1,0 +1,5 @@
+delete module ehbvCompoundAligner
+delete module ehbvFastaExporter
+
+create module -f modules/build/ehbvCompoundAligner.xml
+create module -f modules/build/ehbvFastaExporter.xml

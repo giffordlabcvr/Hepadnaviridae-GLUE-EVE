@@ -1,0 +1,74 @@
+  ### Declare EHBV reference sequences
+
+  # Avihepadnavirus
+  create reference REF_EHBV-Avi.1-neoaves           fasta-refseqs-ehbv ehbv-avi.1-neoaves        # eZHBVc
+  create reference REF_EHBV-Avi.2-estrildidae       fasta-refseqs-ehbv ehbv-avi.2-estrildidae    # eZHBVm
+  create reference REF_EHBV-Avi.3-passeriformes     fasta-refseqs-ehbv ehbv-avi.3-passeriformes  # eZHBV01
+  create reference REF_EHBV-Avi.4-passeriformes     fasta-refseqs-ehbv ehbv-avi.4-passeriformes  # eZHBV02
+
+  create reference REF_EHBV-Avi.5-passeriformes-unranked     fasta-refseqs-ehbv ehbv-avi.5-passeriformes  # eZHBV03
+
+  create reference REF_EHBV-Avi.6-passeriformes     fasta-refseqs-ehbv ehbv-avi.6-passeriformes  # eZHBV04
+  create reference REF_EHBV-Avi.7-passeriformes     fasta-refseqs-ehbv ehbv-avi.7-passeriformes  # eZHBV05
+  create reference REF_EHBV-Avi.8-australiaves      fasta-refseqs-ehbv ehbv-avi.8-australiaves   # eZHBV0e
+  create reference REF_EHBV-Avi.9-melopsittacus     fasta-refseqs-ehbv ehbv-avi.9-melopsittacus
+  create reference REF_EHBV-Avi.10-melopsittacus    fasta-refseqs-ehbv ehbv-avi.10-melopsittacus  
+  create reference REF_EHBV-Avi.11-tyto             fasta-refseqs-ehbv ehbv-avi.11-tyto
+  create reference REF_EHBV-Avi.12-anatidae         fasta-refseqs-ehbv ehbv-avi.12-anatidae
+  create reference REF_EHBV-Avi.13-paleognathae     fasta-refseqs-ehbv ehbv-avi.13-paleognathae
+  create reference REF_EHBV-Avi.14-gavia            fasta-refseqs-ehbv ehbv-avi.14-gavia
+  create reference REF_EHBV-Avi.15-gavia            fasta-refseqs-ehbv ehbv-avi.15-gavia
+  create reference REF_EHBV-Avi.16-turaco           fasta-refseqs-ehbv ehbv-avi.16-turaco
+  create reference REF_EHBV-Avi.18-calypte          fasta-refseqs-ehbv ehbv-avi.18-calypte
+  create reference REF_EHBV-Avi.19-buceros          fasta-refseqs-ehbv ehbv-avi.19-buceros
+  create reference REF_EHBV-Avi.20-cariama          fasta-refseqs-ehbv ehbv-avi.20-cariama
+  create reference REF_EHBV-Avi.21-paleognathae     fasta-refseqs-ehbv ehbv-avi.21-paleognathae
+  create reference REF_EHBV-Avi.22-tyto             fasta-refseqs-ehbv ehbv-avi.22-tyto
+  create reference REF_EHBV-Avi.23-psittaciformes   fasta-refseqs-ehbv ehbv-avi.23-psittaciformes
+  create reference REF_EHBV-Avi.24-apaloderma       fasta-refseqs-ehbv ehbv-avi.24-apaloderma
+  create reference REF_EHBV-Avi.25-chaetura         fasta-refseqs-ehbv ehbv-avi.25-chaetura
+  create reference REF_EHBV-Avi.26-psittaciformes   fasta-refseqs-ehbv ehbv-avi.26-psittaciformes
+  create reference REF_EHBV-Avi.27-phalacrocoracidae fasta-refseqs-ehbv ehbv-avi.27-phalacrocoracidae
+  create reference REF_EHBV-Avi.28-alauda           fasta-refseqs-ehbv ehbv-avi.28-alauda
+  create reference REF_EHBV-Avi.29-psittacula       fasta-refseqs-ehbv ehbv-avi.29-psittacula
+  create reference REF_EHBV-Avi.30-anatidae         fasta-refseqs-ehbv ehbv-avi.30-anatidae 
+  create reference REF_EHBV-Avi.31-passeriformes    fasta-refseqs-ehbv ehbv-avi.31-passeriformes
+  create reference REF_EHBV-Avi.32-tinamiformes     fasta-refseqs-ehbv ehbv-avi.32-tinamiformes
+  create reference REF_EHBV-Avi.34-leptosomus       fasta-refseqs-ehbv ehbv-avi.34-leptosomus
+  create reference REF_EHBV-Avi.35-calypte          fasta-refseqs-ehbv ehbv-avi.35-calypte
+  create reference REF_EHBV-Avi.36-callipepla       fasta-refseqs-ehbv ehbv-avi.36-callipepla
+  create reference REF_EHBV-Avi.37-phylloscopus     fasta-refseqs-ehbv ehbv-avi.37-phylloscopus
+  create reference REF_EHBV-Avi.38-passeriformes    fasta-refseqs-ehbv ehbv-avi.38-passeriformes
+  create reference REF_EHBV-Avi.39-psittaciformes   fasta-refseqs-ehbv ehbv-avi.39-psittaciformes
+  create reference REF_EHBV-Avi.41-psittaciformes   fasta-refseqs-ehbv ehbv-avi.41-psittaciformes
+  create reference REF_EHBV-Avi.42-passeriformes    fasta-refseqs-ehbv ehbv-avi.42-passeriformes
+  create reference REF_EHBV-Avi.43-gallirallus      fasta-refseqs-ehbv ehbv-avi.43-gallirallus 
+  create reference REF_EHBV-Avi.44-antrostomus      fasta-refseqs-ehbv ehbv-avi.44-antrostomus
+  create reference REF_EHBV-Avi.45-psittaciformes   fasta-refseqs-ehbv ehbv-avi.45-psittaciformes
+  create reference REF_EHBV-Avi.46-psittaciformes   fasta-refseqs-ehbv ehbv-avi.46-psittaciformes
+  create reference REF_EHBV-Avi.48-podiceps         fasta-refseqs-ehbv ehbv-avi.48-podiceps
+  create reference REF_EHBV-Avi.49-psittaciformes   fasta-refseqs-ehbv ehbv-avi.49-psittaciformes
+  create reference REF_EHBV-Avi.52-melopsittacus    fasta-refseqs-ehbv ehbv-avi.52-melopsittacus
+  create reference REF_EHBV-Avi.53-picoides         fasta-refseqs-ehbv ehbv-avi.53-picoides
+  create reference REF_EHBV-Avi.54-corapipo         fasta-refseqs-ehbv ehbv-avi.54-corapipo
+
+
+  # Herpetohepadnavirus
+  create reference REF_EHBV-Herpeto.1-serpentes     fasta-refseqs-ehbv ehbv-herpeto.1-serpentes
+  create reference REF_EHBV-Herpeto.2-serpentes     fasta-refseqs-ehbv ehbv-herpeto.2-serpentes
+  create reference REF_EHBV-Herpeto.3-crocodilia    fasta-refseqs-ehbv ehbv-herpeto.3-crocodilia
+  create reference REF_EHBV-Herpeto.4-crocodilia    fasta-refseqs-ehbv ehbv-herpeto.4-crocodilia
+  create reference REF_EHBV-Herpeto.5-testudines    fasta-refseqs-ehbv ehbv-herpeto.5-testudines 
+  create reference REF_EHBV-Herpeto.6-varanus       fasta-refseqs-ehbv ehbv-herpeto.6-varanus
+  create reference REF_EHBV-Herpeto.7-serpentes     fasta-refseqs-ehbv ehbv-herpeto.7-serpentes
+  create reference REF_EHBV-Herpeto.8-serpentes     fasta-refseqs-ehbv ehbv-herpeto.8-serpentes
+
+
+  # Metahepadnavirus
+  create reference REF_EHBV-Meta.1-sauria           fasta-refseqs-ehbv ehbv-meta.1-sauria
+  create reference REF_EHBV-Meta.2-varanus          fasta-refseqs-ehbv ehbv-meta.2-varanus
+  create reference REF_EHBV-Meta.3-paroedura        fasta-refseqs-ehbv ehbv-meta.3-paroedura
+  create reference REF_EHBV-Meta.4-pelusios         fasta-refseqs-ehbv ehbv-meta.4-pelusios
+  create reference REF_EHBV-Meta.5-pelusios         fasta-refseqs-ehbv ehbv-meta.5-pelusios
+  create reference REF_EHBV-Meta.6-sphenodon        fasta-refseqs-ehbv ehbv-meta.6-sphenodon
+

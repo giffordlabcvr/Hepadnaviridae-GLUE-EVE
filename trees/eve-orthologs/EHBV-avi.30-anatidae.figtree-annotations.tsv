@@ -1,0 +1,5 @@
+taxon	sequenceID	name	genus	scaffold	identity	bitscore	host_species	host_genus	host_family	host_order
+alignment/AL_EHBV-avi.30-anatidae/member/fasta-digs-ehbv/ehbv-avi.30-Anas_platyrhynchos	ehbv-avi.30-Anas_platyrhynchos	ehbv-avi.30-Anas_platyrhynchos	Avihepadnavirus	KB742876.1	82.857	123	Anas_platyrhynchos	Anas	Anatidae	Anseriformes
+alignment/AL_EHBV-avi.30-anatidae/member/fasta-digs-ehbv/ehbv-avi.30-Anas_zonorhyncha	ehbv-avi.30-Anas_zonorhyncha	ehbv-avi.30-Anas_zonorhyncha	Avihepadnavirus	NOIK01000472.1	84.286	124	Anas_zonorhyncha	Anas	Anatidae	Anseriformes
+alignment/AL_EHBV-avi.30-anatidae/member/fasta-digs-ehbv/ehbv-avi.30-Anser_brachyrhynchus	ehbv-avi.30-Anser_brachyrhynchus	ehbv-avi.30-Anser_brachyrhynchus	Avihepadnavirus	NXHY01000460.1	98.387	249	Anser_brachyrhynchus	Anser	Anatidae	Anseriformes
+alignment/AL_EHBV-avi.30-anatidae/member/fasta-digs-ehbv/ehbv-avi.30-Anser_cygnoides	ehbv-avi.30-Anser_cygnoides	ehbv-avi.30-Anser_cygnoides	Avihepadnavirus	gi|901923309|ref|NW_013186040.1|	98.387	247	Anser_cygnoides	Anser	Anatidae	Anseriformes

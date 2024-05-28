@@ -1,0 +1,64 @@
+sequenceID	locus_name	virus_genus	full_name	locus_id	locus_numeric_id	structure	start gene	start_codon	nearest_upstream_orf	nearest_downstream_orf	family	host_group_taxleve;	host_group_name	core_shift	variable_region_type
+ehbv-avi.1-neoaves	avi.1-neoaves	Avihepadnavirus	Endogenous avihepadnavirus 1	ehbv-avi.1-neoaves	1	complete	Core	1	FRY (intronic)	FRY (intronic)	Hepadnaviridae	Clade	Neoaves	N/A	avi-3
+ehbv-avi.2-estrildidae	avi.2-estrildidae	Avihepadnavirus	Endogenous avihepadnavirus 2	ehbv-avi.2-estrildidae	2	fragment	nd	nd	DHX32	DHX32	Hepadnaviridae	Family	Estrildidae	N/A	ND
+ehbv-avi.3-passeriformes	avi.3-passeriformes	Avihepadnavirus	Endogenous avihepadnavirus 3	ehbv-avi.3-passeriformes	3	fragment	nd	nd	SCN3B (intronic)	SCN3B (intronic)	Hepadnaviridae	Order	Passeriformes	N/A	ND
+ehbv-avi.4-passeriformes	avi.4-passeriformes	Avihepadnavirus	Endogenous avihepadnavirus 4	ehbv-avi.4-passeriformes	4	fragment	nd	nd	CDH23 (intronic)	CDH23 (intronic)	Hepadnaviridae	Order	Passeriformes	N/A	ND
+ehbv-avi.5-passeriformes	avi.5-passeriformes	Avihepadnavirus	Endogenous avihepadnavirus 5	ehbv-avi.5-unranked	5	fragment	nd	nd	LMO3	MGST1	Hepadnaviridae	Order	Passeriformes	N/A	ND
+ehbv-avi.6-passeriformes	avi.6-passeriformes	Avihepadnavirus	Endogenous avihepadnavirus 6	ehbv-avi.6-passeriformes	6	fragment	nd	nd	FOXD3	ATG4C	Hepadnaviridae	Order	Passeriformes	N/A	ND
+ehbv-avi.7-passeriformes	avi.7-passeriformes	Avihepadnavirus	Endogenous avihepadnavirus 7	ehbv-avi.7-passeriformes	7	fragment	nd	nd	TMEM132E	LIG3	Hepadnaviridae	Order	Passeriformes	N/A	ND
+ehbv-avi.8-australiaves	avi.8-australiaves	Avihepadnavirus	Endogenous avihepadnavirus 8	ehbv-avi.8-australiaves	8	fragment	nd	nd	ATP2B2 (intronic)	ATP2B2 (intronic)	Hepadnaviridae	Clade	Australiaves	N/A	ND
+ehbv-avi.9-melopsittacus	avi.9-melopsittacus	Avihepadnavirus	Endogenous avihepadnavirus 9	ehbv-avi.9-melopsittacus	9	complete	Core	1	CD109	CD109	Hepadnaviridae	Species	Melopsittacus	N/A	avi-1-modern
+ehbv-avi.10-melopsittacus	avi.10-melopsittacus	Avihepadnavirus	Endogenous avihepadnavirus 10	ehbv-avi.10-melopsittacus	10	complete	Core	1	CD109	CD109	Hepadnaviridae	Species	Melopsittacus	N/A	avi-1-modern
+ehbv-avi.11-tyto	avi.11-tyto	Avihepadnavirus	Endogenous avihepadnavirus 11	ehbv-avi.11-tyto	11	complete	Core	1	NAV3	E2F7	Hepadnaviridae	Species	Tyto alba	N/A	avi-2-rails
+ehbv-avi.12-anatidae	avi.12-anatidae	Avihepadnavirus	Endogenous avihepadnavirus 12	ehbv-avi.12-anatidae	12	complete	Core	1	CCDC58 (intronic)	CCDC58 (intronic)	Hepadnaviridae	Family	Anatidae	N/A	avi-2-rails
+ehbv-avi.13-paleognathae	avi.13-paleognathae	Avihepadnavirus	Endogenous avihepadnavirus 13	ehbv-avi.13-paleognathea	13	fragment	nd	nd	ENSDNVG00000017897	BCKDHB	Hepadnaviridae	Clade	Paleognathae	N/A	ND
+ehbv-avi.14-gavia	avi.14-gavia	Avihepadnavirus	Endogenous avihepadnavirus 14	ehbv-avi.14-gavia	14	complete	Core	11	TAS1R3	DVL1	Hepadnaviridae	Species	Gavia	N/A	avi-2-rails
+ehbv-avi.15-gavia	avi.15-gavia	Avihepadnavirus	Endogenous avihepadnavirus 15	ehbv-avi.15-gavia	15	complete	Core	1	TMEM182 (intronic)	TMEM182 (intronic)	Hepadnaviridae	Species	Gavia	N/A	avi-2-rails
+ehbv-avi.16-turaco	avi.16-turaco	Avihepadnavirus	Endogenous avihepadnavirus 16	ehbv-avi.16-turaco	16	fragment	nd	nd	TMEM8B	ENSACUG00000013925	Hepadnaviridae	Species	Turaco	N/A	ND
+ehbv-avi.18-calypte	avi.18-calypte	Avihepadnavirus	Endogenous avihepadnavirus 18	ehbv-avi.18-calypte	18	complete	Core	1	ENSSCUG00000017518 (intronic)/TSKU	ENSSCUG00000017518 (intronic)/EMSY	Hepadnaviridae	Species	Calypte	N/A	ND
+ehbv-avi.19-buceros	avi.19-buceros	Avihepadnavirus	Endogenous avihepadnavirus 19	ehbv-avi.19-Buceros	19	complete	Core	1	PCDH18	PCDH10	Hepadnaviridae	Species	Buceros	N/A	avi-1-ancient
+ehbv-avi.20-cariama	avi.20-cariama	Avihepadnavirus	Endogenous avihepadnavirus 20	ehbv-avi.20-Cariama	20	complete	Core	1	THBS1	KATNBL1	Hepadnaviridae	Species	Cariama	N/A	avi-3
+ehbv-avi.21-paleognathae	avi.21-paleognathae	Avihepadnavirus	Endogenous avihepadnavirus 21	ehbv-avi.21-Paleognathea	21	fragment	nd	nd	LMCD1	GRM7	Hepadnaviridae	Clade	Paleognathae	N/A	ND
+ehbv-avi.22-tyto	avi.22-tyto	Avihepadnavirus	Endogenous avihepadnavirus 22	ehbv-avi.22-tyto	22	fragment	nd	nd	MYBL2	PTPRT	Hepadnaviridae	Species	Tyto alba	N/A	avi-2-rails
+ehbv-avi.23-psittaciformes	avi.23-psittaciformes	Avihepadnavirus	Endogenous avihepadnavirus 23	ehbv-avi.23-strigops	23	amp fragment	nd	nd	UBE2G1	 SPNS3	Hepadnaviridae	Order	Psittaciformes	N/A	avi-4
+ehbv-avi.24-apaloderma	avi.24-apaloderma	Avihepadnavirus	Endogenous avihepadnavirus 24	ehbv-avi.24-apaloderma	24	fragment	nd	nd	CDH23 (intronic)	CDH23 (intronic)	Hepadnaviridae	Species	Apaloderma	N/A	avi-3
+ehbv-avi.25-chaetura	avi.25-chaetura	Avihepadnavirus	Endogenous avihepadnavirus 25	ehbv-avi.25-chaetura	25	complete	Pol	523	ARMC1	CYP7B1	Hepadnaviridae	Species	Chaetura	N/A	avi-3
+ehbv-avi.26-psittaciformes	avi.26-psittaciformes	Avihepadnavirus	Endogenous avihepadnavirus 26	ehbv-avi.26-psittaciformes	26	amp fragment	nd	nd	NELL1 (intronic)	NELL1 (intronic)	Hepadnaviridae	Order	Psittaciformes	N/A	ND
+ehbv-avi.27-phalacrocoracidae	avi.27-phalacrocoracidae	Avihepadnavirus	Endogenous avihepadnavirus 27	ehbv-avi.27-phalacrocoracidae	27	amp fragment	nd	nd	SUPT7L	LRFN2	Hepadnaviridae	Family	Phalacrocoracidae	N/A	ND
+ehbv-avi.28-alauda	avi.28-alauda	Avihepadnavirus	Endogenous avihepadnavirus 28	ehbv-avi.28-alauda	28	complete	Pol	745	EPHA6	NSUN3	Hepadnaviridae	Species	Alauda	N/A	avi-1-modern
+ehbv-avi.29-psittacula	avi.29-psittacula	Avihepadnavirus	Endogenous avihepadnavirus 29	ehbv-avi.29-psittacula	29	complete	nd	nd	ENSMUNG00000011927/CHSY3	ENSMUNG00000011929/HINT1	Hepadnaviridae	Species	Psittacula	N/A	avi-4
+ehbv-avi.30-anatidae	avi.30-anatidae	Avihepadnavirus	Endogenous avihepadnavirus 30	ehbv-avi.30-anatidae	30	fragment	nd	nd	ENSACDG00005009727	CCDC58	Hepadnaviridae	Family	Anatidae	N/A	ND
+ehbv-avi.31-passeriformes	avi.31-passeriformes	Avihepadnavirus	Endogenous avihepadnavirus 31	ehbv-avi.31-passeriformes	31	complete	Core	1	NETO1	FBXO15	Hepadnaviridae	Order	Passeriformes	N/A	avi-4
+ehbv-avi.32-tinamiformes	avi.32-tinamiformes	Avihepadnavirus	Endogenous avihepadnavirus 32	ehbv-avi.32-tinamiformes	32	fragment	nd	nd	OLFM4	NF	Hepadnaviridae	Order	Tinamiformes	N/A	ND
+ehbv-avi.34-leptosomus	avi.34-leptosomus	Avihepadnavirus	Endogenous avihepadnavirus 34	ehbv-avi.34-leptosomus	34	fragment	nd	nd	LRRC7	LRRC7	Hepadnaviridae	Species	Leptosomus	N/A	ND
+ehbv-avi.35-calypte	avi.35-calypte	Avihepadnavirus	Endogenous avihepadnavirus 35	ehbv-avi.35-calypte	35	fragment	nd	nd	FBXO15	CYB5A	Hepadnaviridae	Species	Calypte	N/A	ND
+ehbv-avi.36-callipepla	avi.36-callipepla	Avihepadnavirus	Endogenous avihepadnavirus 35	ehbv-avi.36-callipepla	36	fragment	nd	nd	nd	nd	Hepadnaviridae	Species	Callipepla	N/A	ND
+ehbv-avi.37-phylloscopus	avi.37-phylloscopus	Avihepadnavirus	Endogenous avihepadnavirus 37	ehbv-avi.37-phylloscopus	37	complete	nd	nd	EPHA3	ZNF654	Hepadnaviridae	Species	Phylloscopus	N/A	avi-4
+ehbv-avi.38-passeriformes	avi.38-passeriformes	Avihepadnavirus	Endogenous avihepadnavirus 38	ehbv-avi.38-passeriformes	38	fragment	nd	nd	AAR2	ENSTGUG00000027480	Hepadnaviridae	Order	Passeriformes	N/A	ND
+ehbv-avi.39-psittaciformes	avi.39-psittaciformes	Avihepadnavirus	Endogenous avihepadnavirus 39	ehbv-avi.39-psittaciformes	39	fragment	nd	nd	FXN (intronic)	FXN (intronic)	Hepadnaviridae	Species	Ara	N/A	ND
+ehbv-avi.41-psittaciformes	avi.41-psittaciformes	Avihepadnavirus	Endogenous avihepadnavirus 41	ehbv-avi.41-psittaciformes	41	fragment	nd	nd	RAD23B	PHAX/MARCHF3	Hepadnaviridae	Order	Psittaciformes	N/A	ND
+ehbv-avi.42-passeriformes	avi.42-passeriformes	Avihepadnavirus	Endogenous avihepadnavirus 42	ehbv-avi.42-passeriformes	42	fragment	nd	nd	ABRACL/REPS1	TXLNB	Hepadnaviridae	Order	Passeriformes	N/A	ND
+ehbv-avi.43-gallirallus	avi.43-gallirallus	Avihepadnavirus	Endogenous avihepadnavirus 43	ehbv-avi.43-gallirallus	43	fragment	nd	nd	DEND4A	DEND4A	Hepadnaviridae	Species	Gallirallus	N/A	ND
+ehbv-avi.44-antrostomus	avi.44-antrostomus	Avihepadnavirus	Endogenous avihepadnavirus 44	ehbv-avi.44-antrostomus	44	fragment	nd	nd	KCNV1	ENSTGUG00000027711	Hepadnaviridae	Species	Antrostomus	N/A	ND
+ehbv-avi.45-psittaciformes	avi.45-psittaciformes	Avihepadnavirus	Endogenous avihepadnavirus 45	ehbv-avi.45-psittaciformes	45	fragment	nd	nd	LNPEP	ENSACOG00000006853	Hepadnaviridae	Order	Psittaciformes	N/A	ND
+ehbv-avi.46-psittaciformes	avi.46-psittaciformes	Avihepadnavirus	Endogenous avihepadnavirus 46	ehbv-avi.46-psittaciformes	46	fragment	nd	nd	FMN1	RYR3	Hepadnaviridae	Order	Psittaciformes	N/A	ND
+ehbv-avi.48-podiceps	avi.48-podiceps	Avihepadnavirus	Endogenous avihepadnavirus 48	ehbv-avi.48-podiceps	48	fragment	nd	nd	MATN1	PTPRU	Hepadnaviridae	Species	Podiceps	N/A	ND
+ehbv-avi.49-psittaciformes	avi.49-psittaciformes	Avihepadnavirus	Endogenous avihepadnavirus 49	ehbv-avi.49-psittaciformes	49	fragment	nd	nd	GRID2 (intronic)	GRID2 (intronic)	Hepadnaviridae	Order	Psittaciformes	N/A	ND
+ehbv-avi.52-melopsittacus	avi.52-melopsittacus	Avihepadnavirus	Endogenous avihepadnavirus 52	ehbv-avi.52-melopsittacus	52	fragment	nd	nd	LUZP2	ANO3	Hepadnaviridae	Species	Melopsittacus	N/A	ND
+ehbv-avi.53-picoides	avi.53-picoides	Avihepadnavirus	Endogenous avihepadnavirus 53	ehbv-avi.53-picoides	53	fragment	nd	nd	TRIB2	LPIN1	Hepadnaviridae	Species	Picoides	N/A	ND
+ehbv-avi.54-corapipo	avi.54-corapipo	Avihepadnavirus	Endogenous avihepadnavirus 54	ehbv-avi.54-corapipo	54	fragment	nd	nd	nd	nd	Hepadnaviridae	Species	Corapipo_altera	N/A	ND
+ehbv-herpeto.1-serpentes	herpeto.1-serpentes	Herpetohepadnavirus	Endogenous herpetohepadnavirus 1	ehbv-herpeto.1-serpentes	1	complete	nd	nd	TSHZ1 	ZNF516	Hepadnaviridae	Suborder	Serpentes	N/A	ND
+ehbv-herpeto.2-serpentes	herpeto.2-serpentes	Herpetohepadnavirus	Endogenous herpetohepadnavirus 2	ehbv-herpeto.2-serpentes	2	complete	nd	nd	NPFFR2	FTH1	Hepadnaviridae	Suborder	Serpentes	N/A	herpeto-type-3-serpentes
+ehbv-herpeto.3-crocodilia	herpeto.3-crocodilia	Herpetohepadnavirus	Endogenous herpetohepadnavirus 3	ehbv-herpeto.3-crocodilia	3	fragment	nd	nd	NUP210	IQSEC1	Hepadnaviridae	Order	Crocodilia	N/A	herpeto-type-4-croc
+ehbv-herpeto.4-crocodilia	herpeto.4-crocodilia	Herpetohepadnavirus	Endogenous herpetohepadnavirus 4	ehbv-herpeto.4-crocodilia	4	fragment	nd	nd	SORT1	PPIL1	Hepadnaviridae	Order	Crocodilia	N/A	herpeto-type-4-croc
+ehbv-herpeto.5-testudines	herpeto.5-testudines	Herpetohepadnavirus	Endogenous herpetohepadnavirus 5	ehbv-herpeto.5-testudines	5	fragment	nd	nd	GBE1	ROBO1	Hepadnaviridae	Order	Testudines	N/A	herpeto-type-3-serpentes
+ehbv-herpeto.6-varanus	herpeto.6-varanus	Herpetohepadnavirus	Endogenous herpetohepadnavirus 6	ehbv-herpeto.6-varanus	6	fragment	nd	nd	WSCD2 (intronic)	WSCD2 (intronic)	Hepadnaviridae	Species	Varanus	N/A	herpeto-type-2
+ehbv-herpeto.7-serpentes	herpeto.7-serpentes	Herpetohepadnavirus	Endogenous herpetohepadnavirus 9	ehbv-herpeto.7-serpentes	9	complete	nd	nd	ATP2A3	ZZEF1	Hepadnaviridae	Suborder	Serpentes	N/A	herpeto-type-3-serpentes
+ehbv-herpeto.8-serpentes	herpeto.8-serpentes	Herpetohepadnavirus	Endogenous herpetohepadnavirus 8	ehbv-herpeto.8-serpentes	8	complete	nd	nd	OBI1	RBM26	Hepadnaviridae	Suborder	Serpentes	N/A	herpeto-type-3-serpentes
+ehbv-herpeto.10-EleCoq	herpeto.10-EleCoq	Herpetohepadnavirus	Endogenous herpetohepadnavirus 10	ehbv-herpeto.10-EleCoq	10	fragment	nd	nd	nk	nk	Hepadnaviridae	Species	Eleutherodactylus coqui		herpeto.10-EleCoq
+ehbv-meta.1-sauria	meta.1-sauria	Metahepadnavirus	Endogenous metahepadnavirus 1	ehbv-meta.1-sauria	1	complete	Core	1	KLF8	ENSACUG00000005807	Hepadnaviridae	Clade	Sauropsida	N/A	meta-type-5
+ehbv-meta.2-varanus	meta.2-varanus	Metahepadnavirus	Endogenous metahepadnavirus 2	ehbv-meta.2-varanus	2	fragment	nd	nd	NPVF	NFE2L3	Hepadnaviridae	Species	Varanus	N/A	meta-type-6
+ehbv-meta.3-paroedura	meta.3-paroedura	Metahepadnavirus	Endogenous metahepadnavirus 3	ehbv-meta.3-paroedura	3	fragment	nd	nd	NK	NK	Hepadnaviridae	Species	Paroedura	N/A	ND
+ehbv-meta.4-pelusios	meta.4-pelusios	Metahepadnavirus	Endogenous metahepadnavirus 4	ehbv-meta.4-pelusios	4	fragment	nd	nd	LCP1	RUBCNL	Hepadnaviridae	Species	Pelusios	N/A	ND
+ehbv-meta.5-pelusios	meta.5-pelusios	Metahepadnavirus	Endogenous metahepadnavirus 5	ehbv-meta.5-pelusios	5	fragment	nd	nd	NTF3	KCNA5	Hepadnaviridae	Species	Pelusios	N/A	ND
+ehbv-meta.6-sphenodon	meta.6-sphenodon	Metahepadnavirus	Endogenous metahepadnavirus 1	ehbv-meta.6-sphenodon	1	fragment	nd	nd	nd	nd	Hepadnaviridae	Species	Sphenodon	N/A	ND

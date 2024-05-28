@@ -1,0 +1,14 @@
+  # Delete extension modules
+  delete module --whereClause "name like 'ehbv%'"
+
+  # Delete extension alignments
+  multi-delete alignment -w "name like 'AL_EHBV%'"
+  multi-delete alignment -w "name like '%_EVE'"
+  multi-delete alignment -w "name like 'AL_UNC_eHBV%'"
+
+  # Delete extension reference sequences
+  multi-delete reference -w "name like 'REF_EHBV-%'"
+
+  # Delete EVE sources
+  delete source fasta-refseqs-ehbv
+  delete source fasta-digs-ehbv

@@ -1,0 +1,50 @@
+  delete custom-table refcon_data
+  delete link sequence refcon_data
+  delete custom-table locus_data
+  delete link sequence locus_data
+
+  # Create schema extensions
+
+  # Table for EVE consensus and reference sequence data
+  create custom-table refcon_data
+  
+  table refcon_data
+    create field reftype VARCHAR 50
+    create field host_group_taxlevel VARCHAR 50
+    create field host_group_name VARCHAR 50
+    create field num_copies INTEGER
+    create field locus_numeric_id INTEGER
+    create field nearest_upstream_orf VARCHAR 100
+    create field nearest_downstream_orf VARCHAR 100
+  exit
+  
+  create link sequence refcon_data
+  
+
+  # Table for EVE locus data
+  create custom-table locus_data
+
+  table locus_data
+    create field locus_numeric_id INTEGER
+    create field scaffold VARCHAR 100
+    create field start_position INTEGER
+    create field end_position INTEGER
+    create field orientation VARCHAR 10
+    create field host_sci_name VARCHAR 50
+    create field bitscore VARCHAR 20
+    create field identity VARCHAR 20
+    create field sequence_length INTEGER
+    create field assigned_name VARCHAR 60
+    create field host_species VARCHAR 60
+    create field host_superorder VARCHAR 60
+    #create field host_major_clade VARCHAR 60
+    #create field host_middle_clade VARCHAR 60
+    #create field host_minor_clade VARCHAR 60
+    create field host_class VARCHAR 60
+    create field host_order VARCHAR 60
+    create field host_family VARCHAR 60
+    create field host_genus VARCHAR 60
+  exit
+
+  create link sequence locus_data
+
